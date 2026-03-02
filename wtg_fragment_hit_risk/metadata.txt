@@ -1,0 +1,16 @@
+[general]
+name=WTG Fragment Hit Risk
+qgisMinimumVersion=3.22
+description=Calcolo raster del rischio di impatto da frammento espulso da pale eoliche (area anello esatta).
+version=1.0.0
+author=Codex
+email=na@example.com
+about=Plugin Processing per stimare la probabilità per evento di distacco che un frammento colpisca un bersaglio reale.
+tracker=
+repository=
+category=Analysis
+icon=
+experimental=False
+deprecated=False
+
+hasProcessingProvider=yes
